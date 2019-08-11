@@ -7,4 +7,5 @@ def char_frequency(str1):
         else:
             dict[n] = 1
     return dict
-print(char_frequency('google.com'))
+str2=input("Enter the string : ")
+print(char_frequency('str2'))
